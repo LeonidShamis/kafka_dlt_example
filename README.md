@@ -1,5 +1,5 @@
 
-# Kafka Dead Letter Topic (DLT) Demostration
+# Kafka Dead Letter Topic (DLT) Demonstration
 
 This Spring Boot application demonstrates the implementation and usage of Dead Letter Topics (DLT) in Apache Kafka using Spring Kafka. The application simulates an order processing system where some orders may fail processing and need to be redirected to a Dead Letter Topic after several retry attempts.
 
